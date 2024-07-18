@@ -566,6 +566,9 @@ section .title::after{
   color: crimson;
   background: none;
 }
+.ic{
+    margin: 0 5px;
+}
 /* footer section styling */
 footer{
     background: #111;
